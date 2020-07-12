@@ -5,9 +5,9 @@ This is command-line tool to manage the projects in your local system , which ca
 1. Fork the repository
 2. npm install
 3. npm link
-4. type **project-manager** as a new command which will provide you its details and the options which you can use.
+4. type project-manager as a new command which will provide you its details and the options which you can use.
 ```
-Demo:
+**Demo**(different commands with their results):
   - project-manager
  ``` Usage: project-manager [options] [command]
 
@@ -74,7 +74,12 @@ Commands:
 1 Project(s) deleted
 ```
   
- Tip:
+ **NOTE**:
+ ``` 
+ This project uses mongodb as your database which will save your project details, so ensure your mongod service is running otherwise project-manager won't be running properly
+ ```
+  
+ **Tip**:
  ```
  You can create a password manager which will keep track of your passwords for different websites and you can save those passwords in your local system.
  ```
