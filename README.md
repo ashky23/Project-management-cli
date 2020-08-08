@@ -1,6 +1,8 @@
 # Project-management-cli
 This is command-line tool to manage the projects in your local system , which can provide the functionality where you can mention your project details and it will keep the track of all your projects which you've buit so far or are currently working on.:computer: :envelope: :mag:
 
+[![HitCount](http://hits.dwyl.com/ashky23/Project-management-cli.svg)](http://hits.dwyl.com/ashky23/Project-management-cli)
+
 ```
 1. Fork the repository
 2. npm install
